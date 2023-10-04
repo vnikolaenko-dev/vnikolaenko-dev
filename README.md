@@ -2,7 +2,7 @@
 
 <div id="badges">
   <a href="https://t.me/vnikolaenko">
-    <img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://w7.pngwing.com/pngs/636/338/png-transparent-telegram-hd-logo.png)" alt="Telegram Badge"/>
+    <img src="https://w7.pngwing.com/pngs/636/338/png-transparent-telegram-hd-logo.png" alt="Telegram Badge"/>
   </a>
   <a href="your-youtube-URL">
     <img src="[https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white](https://free-png.ru/wp-content/uploads/2022/02/free-png.ru-307.png)" alt="VK Badge"/>
