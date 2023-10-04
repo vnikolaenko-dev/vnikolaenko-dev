@@ -7,8 +7,8 @@
 </div>
 
 ### О себе 
-Выпускник Академии Яндекса 
-\nСтудент ITMO University SPB
+:Выпускник Академии Яндекса 
+- Студент ITMO University SPB
 
 <!--
 **vnikolaenko-dev/vnikolaenko-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
