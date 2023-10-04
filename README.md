@@ -10,6 +10,9 @@
 - Выпускник Академии Яндекса 
 - Студент ITMO University SPB
 
+### Мои работы проекты
+- Работы и проекты в <a text="ITMO" href="https://t.me/vnikolaenko">
+
 <!--
 **vnikolaenko-dev/vnikolaenko-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
