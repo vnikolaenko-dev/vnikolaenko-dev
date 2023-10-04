@@ -10,7 +10,7 @@
 - Выпускник Академии Яндекса 
 - Студент ITMO University SPB
 
-### Мои работы проекты
+### Проекты
 - Работы и проекты в <a href="https://github.com/vnikolaenko-dev/ITMO">ITMO</a>
 
 <!--
