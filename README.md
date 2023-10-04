@@ -11,7 +11,7 @@
 - Студент ITMO University SPB
 
 ### Мои работы проекты
-- Работы и проекты в <a text="ITMO" href="https://t.me/vnikolaenko">
+- Работы и проекты в <a href="https://github.com/vnikolaenko-dev/ITMO">ITMO</a>
 
 <!--
 **vnikolaenko-dev/vnikolaenko-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
