@@ -11,7 +11,7 @@
 - Студент ITMO University SPB
 
 ### Проекты
-- Работы и проекты в <a href="https://github.com/vnikolaenko-dev/ITMO">ITMO</a>
+- Лабораторные в <a href="https://github.com/vnikolaenko-dev/ITMO">ITMO</a>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vnikolaenko-dev&show_icons=true&theme=tokyonight)
