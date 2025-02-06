@@ -23,7 +23,7 @@
 ### :hammer_and_wrench: Databases:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgreSQL" width="50" height="50"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/OrientDB_Logo_2014_280x177.jpg" title="OrientDB" **alt="OrientDB" width="65" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/OrientDB_Logo_2014_280x177.jpg" title="OrientDB" **alt="OrientDB" width="80" height="50"/>
 </div>
 
 ### :hammer_and_wrench: Technologies:
