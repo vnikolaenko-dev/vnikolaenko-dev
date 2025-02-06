@@ -33,7 +33,7 @@
 </div>
 
 ### Проекты
-- Лабораторные в <a href="https://github.com/vnikolaenko-dev/ITMO">ITMO</a>
-
+- <a href="https://github.com/vnikolaenko-dev/ITMO">Лабораторные в ITMO</a>
+- <a href="hhttps://github.com/vnikolaenko-dev/TagFileSystem-JavaFX-App">Теговая файловая система на JavaFX</a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vnikolaenko-dev&show_icons=true&theme=tokyonight)
