@@ -5,9 +5,7 @@
   <a href="https://t.me/vnikolaenko">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://ваш-сайт.com" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Мой_сайт-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Мой сайт"/>
-</a>
+  [![Website](https://img.shields.io/badge/🔗_Мой_сайт-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://ваш-сайт.com)
 </div>
 
 <div  align="center">
