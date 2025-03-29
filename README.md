@@ -5,8 +5,8 @@
   <a href="https://t.me/vnikolaenko">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://t.me/vnikolaenko">
-    <img src="https://img.shields.io/badge/purple?style=for-the-badge&logoColor=white" alt="Telegram Badge"/>
+  <a href="https://vnikolaenko.site">
+    <img src="https://img.shields.io/badge/My%20website%20-8A2BE2" alt="Website Badge"/>
   </a>
 </div>
 
