@@ -5,6 +5,9 @@
   <a href="https://t.me/vnikolaenko">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+  <a href="https://ваш-сайт.com" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Мой_сайт-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Мой сайт"/>
+</a>
 </div>
 
 <div  align="center">
@@ -39,6 +42,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/OrientDB_Logo_2014_280x177.jpg" title="OrientDB" **alt="OrientDB" width="80" height="50"/>
   </div>
 
-</br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vnikolaenko-dev&show_icons=true&theme=tokyonight)
 </p>
