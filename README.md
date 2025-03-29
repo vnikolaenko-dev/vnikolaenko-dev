@@ -26,12 +26,15 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/OrientDB_Logo_2014_280x177.jpg" title="OrientDB" **alt="OrientDB" width="80" height="50"/>
 </div>
 
-### Technologies:
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="85" height="85"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="70" height="70"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="85" height="85"/>&nbsp;
-</div>
+<p align="center">
+  <h2 align="center">Technologies:</h2>
+  
+  <div align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="85" height="85"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="70" height="70"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="85" height="85"/>&nbsp;
+  </div>
+</p>
 
 ### Проекты
 - <a href="https://github.com/vnikolaenko-dev/ITMO">Лабораторные в ITMO</a>
