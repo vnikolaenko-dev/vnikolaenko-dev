@@ -39,6 +39,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/OrientDB_Logo_2014_280x177.jpg" title="OrientDB" **alt="OrientDB" width="80" height="50"/>
   </div>
 
-
+</br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vnikolaenko-dev&show_icons=true&theme=tokyonight)
 </p>
