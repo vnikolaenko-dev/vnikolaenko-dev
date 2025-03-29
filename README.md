@@ -7,11 +7,11 @@
   </a>
 </div>
 
-### О себе 
-- Выпускник Академии Яндекса 
-- Студент ITMO University SPB
-
-
+<div  align="center">
+  <h2 align="center">О себе </h2>
+  <p>Студент ITMO University</p>
+  <p>Выпускник Академии Яндекса</p>
+<div>
 
   <h2 align="center">Programming languages:</h2>
   <div align="center">
