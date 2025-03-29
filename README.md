@@ -3,11 +3,11 @@
 
 <div id="badges" align="center">
   <a href="https://t.me/vnikolaenko">
-    <img src="https://img.shields.io/badge/My%20website%20-2B7DE2" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/My%20Telegram%20-2B7DE2" alt="Telegram Badge"/>
   </a>
   <p> </p>
   <a href="https://vnikolaenko.site">
-    <img src="https://img.shields.io/badge/My%20website%20-8A2BE2" alt="Website Badge"/>
+    <img src="https://img.shields.io/badge/My%20Website%20-8A2BE2" alt="Website Badge"/>
   </a>
 </div>
 
