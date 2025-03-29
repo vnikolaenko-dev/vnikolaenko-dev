@@ -5,7 +5,7 @@
   <a href="https://t.me/vnikolaenko">
     <img src="https://img.shields.io/badge/My%20Telegram%20-2B7DE2" alt="Telegram Badge"/>
   </a>
-  <p> </p>
+  <a> </a>
   <a href="https://vnikolaenko.site">
     <img src="https://img.shields.io/badge/My%20Website%20-8A2BE2" alt="Website Badge"/>
   </a>
