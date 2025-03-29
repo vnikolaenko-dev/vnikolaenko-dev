@@ -1,13 +1,12 @@
 <p align="center">
   <h1 align="center">Привет, я Николаенко Виктор 👾</h1>
 
-<div id="badges" align="center">
-  <a href="https://t.me/vnikolaenko">
-    <img src="https://img.shields.io/badge/My%20Telegram%20-2B7DE2" alt="Telegram Badge"/>
+<div id="badges" align="center" style="display: flex; gap: 15px; justify-content: center;">
+  <a href="https://t.me/vnikolaenko" target="_blank">
+    <img src="https://img.shields.io/badge/My_Telegram-2B7DE2?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2B7DE2" alt="Telegram" height="40"/>
   </a>
-  <a> </a>
-  <a href="https://vnikolaenko.site">
-    <img src="https://img.shields.io/badge/My%20Website%20-8A2BE2" alt="Website Badge"/>
+  <a href="https://vnikolaenko.site" target="_blank">
+    <img src="https://img.shields.io/badge/My_Website-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=8A2BE2" alt="Website" height="40"/>
   </a>
 </div>
 
