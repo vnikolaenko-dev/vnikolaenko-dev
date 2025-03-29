@@ -5,7 +5,12 @@
   <a href="https://t.me/vnikolaenko">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  [🌐 Посетить сайт](https://ваш-сайт.com)
+  <a href="https://yourwebsite.com" target="_blank">
+  <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px;">
+    Visit My Website
+  </button>
+</a>
+
 </div>
 
 <div  align="center">
