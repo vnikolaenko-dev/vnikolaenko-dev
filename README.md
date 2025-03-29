@@ -9,7 +9,8 @@
 
 <div  align="center">
   <h1 align="center">О себе</h1>
-  <p>Студент ITMO University Выпускник Академии Яндекса</p>
+  <p>Студент ITMO University</p> 
+  <p>Выпускник Академии Яндекса</p>
 <div>
 
   <h1 align="center">Programming languages:</h1>
