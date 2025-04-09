@@ -18,12 +18,13 @@
   <p>Выпускник Академии Яндекса</p>
 <div>
 
-<h1 align="center">Main skills:</h1>
-  <div align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="85" height="85"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="85" height="85"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="85" height="85"/>&nbsp;
-  </div>
+## 🛠 Technical Stack
+*   Java
+*   PostgreSQL, OrientDB
+*   Spring Boot, Spring Data, Spring Security
+*   Docker Compose
+*   GitHub/Git
+*   Prometheus, Grafana, Arillery
 
   <h1 align="center">Programming languages:</h1>
   <div align="center">
