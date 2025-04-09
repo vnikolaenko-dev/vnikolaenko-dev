@@ -6,6 +6,8 @@ Java-разработчик с опытом в создании API и web пр�
    <a href="https://github-readme-stats.vercel.app/api?username=vnikolaenko-dev&show_icons=true&count_private=true"><img
            height=150
            src="https://github-readme-stats.vercel.app/api?username=vnikolaenko-dev&show_icons=true&count_private=true"/></a>
+      <a href="https://github.com/vnikolaenko-dev/github-readme-stats"><img height=150
+                                                                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnikolaenko-dev&layout=compact&cache_seconds=10"/></a>
 </p>
 
 
