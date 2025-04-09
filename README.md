@@ -10,6 +10,12 @@
   </a>
 </div>
 
+![Java](https://img.shields.io/badge/Java-8%2B-orange)
+![Spring](https://img.shields.io/badge/Spring-boot-green)
+![Docker](https://img.shields.io/badge/Docker-blue)
+![Maven](https://img.shields.io/badge/Maven-3.x-blue)
+
+
 <div  align="center">
   <h1 align="center">О себе</h1>
   <p>Студент ITMO University</p> 
