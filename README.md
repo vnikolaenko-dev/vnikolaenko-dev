@@ -31,7 +31,8 @@
 *   PostgreSQL, OrientDB
 *   Spring Boot, Spring Data, Spring Security
 *   Docker Compose
-*   GitHub/Git
+*   GitHub, Git
+*   Linux
 *   Prometheus, Grafana, Artillery
 
 ## Other Skills
