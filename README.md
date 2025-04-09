@@ -1,5 +1,7 @@
 <p align="center">
   <h1 align="center">Привет, я Николаенко Виктор 👾</h1>
+  <h2 align="center">Java-разработчик с опытом в создании API и web приложений.</h2>
+
 
 <div id="badges" align="center" style="display: flex; gap: 15px; justify-content: center;">
   <a href="https://t.me/vnikolaenko" target="_blank">
@@ -10,17 +12,18 @@
   </a>
 </div>
 
-![Java](https://img.shields.io/badge/Java-8%2B-orange)
-![Spring](https://img.shields.io/badge/Spring-boot-green)
-![Docker](https://img.shields.io/badge/Docker-blue)
-![Maven](https://img.shields.io/badge/Maven-3.x-blue)
-
-
 <div  align="center">
   <h1 align="center">О себе</h1>
   <p>Студент ITMO University</p> 
   <p>Выпускник Академии Яндекса</p>
 <div>
+
+<h1 align="center">Main skills:</h1>
+  <div align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="85" height="85"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="85" height="85"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="85" height="85"/>&nbsp;
+  </div>
 
   <h1 align="center">Programming languages:</h1>
   <div align="center">
