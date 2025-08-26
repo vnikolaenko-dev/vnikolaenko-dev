@@ -30,6 +30,7 @@
 *   Java
 *   PostgreSQL, OrientDB
 *   Spring Boot, Spring Data, Spring Security
+*   Apache Kafka
 *   Docker Compose
 *   GitHub, Git
 *   Linux
